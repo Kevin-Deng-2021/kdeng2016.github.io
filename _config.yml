@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright1: Dr. Henry Jekyll
-  copyright2: Qingxiao Dong
+  copyright2: Kevin Deng
   location: Location
   social: Connect
   credits: Credits
@@ -42,7 +42,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/kjdeng
   - title: envelope-o
-    url: mailto:qingxiao@cis.upenn.edu
+    url: kaijendeng2016@u.northwestern.edu
   - title: github
     url: https://github.com/kdeng2016
   # - title: file-pdf-o
