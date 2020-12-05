@@ -1,10 +1,10 @@
 # Site settings
-title: Qingxiao Dong
-email: qingxiao@cis.upenn.edu
-url: https://lisalisadong.github.io
-description: "Personal site of Qingxiao Dong, MCIT student at Penn."
-skills: "Computer Science Master Student at University of Pennsylvania (MCIT)"
-meta_author: Dong Qingxiao
+title: Kevin Deng
+email: kaijendeng2016@u.northwestern.edu
+url: https://kdeng2016.github.io
+description: "Kevin Deng Data Science Blog"
+skills: "Data Science & Business Intelligence"
+meta_author: Kevin Deng
 
 # Google webmaster tools
 google_verify:
@@ -20,7 +20,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: lisalisadong
+disqus_shortname: kdeng
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -40,16 +40,16 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/qingxiaodong
+    url: https://www.linkedin.com/in/kjdeng
   - title: envelope-o
     url: mailto:qingxiao@cis.upenn.edu
   - title: github
-    url: https://github.com/lisalisadong
+    url: https://github.com/kdeng2016
   # - title: file-pdf-o
   #   url: file/resume.pdf
 
 # Postal address (add as many lines as necessary)
-address:
+address: Chicago, IL
   - line: 
   - line: 
 
