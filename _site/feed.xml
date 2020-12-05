@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingxiao Dong</title>
+    <description>Personal site of Qingxiao Dong, MCIT student at Penn.</description>
+    <link>https://lisalisadong.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 27 Sep 2016 01:01:53 -0400</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2016 01:01:53 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Penn&amp;#45defined networks &amp;#45 Juniper&amp;#45comcast sdn throwdown</title>
+        <description>&lt;p&gt;&lt;em&gt;Wide area network control and analytics platform&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Competed against 9 other teams from 8 universities in US and Europe and won 3rd Place in the SDN hackathon challenge.&lt;/li&gt;&lt;li&gt;Built a network management platform atop &lt;a href=&quot;http%3A//www.juniper.net/us/en/products-services/sdn/northstar-network-controller/&quot; target=&quot;_blank&quot;&gt;Juniper NorthStar&lt;/a&gt;. It can automatically reroute LSPs around failures, and operators can analyze and visualize network data using SQL.&lt;/li&gt;&lt;li&gt;Rendered a real-time network topology, SQL queries, and network statistics, using &lt;a href=&quot;https%3A//facebook.github.io/react/&quot; target=&quot;_blank&quot;&gt;React&lt;/a&gt;, &lt;a href=&quot;http%3A//www.restapitutorial.com/&quot; target=&quot;_blank&quot;&gt;Rest API&lt;/a&gt;, &lt;a href=&quot;https%3A//ace.c9.io/&quot; target=&quot;_blank&quot;&gt;Ace.js&lt;/a&gt; and &lt;a href=&quot;https%3A//developers.google.com/maps/&quot; target=&quot;_blank&quot;&gt;Google Maps API&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Built a query parser using Python in the backend, which projects network telemetry streams onto a uniform timeline using interpolation.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/%3Ca%20href=%22http%253a/flask.pocoo.org/%22%20target=%22_blank%22%3Eflask%3C/a%3E,%20%3Ca%20href=%22https%253a/facebook.github.io/react/%22%20target=%22_blank%22%3Ereact%3C/a%3E,%20python,%20%3Ca%20href=%22http%253a/www.restapitutorial.com/%22%20target=%22_blank%22%3Erest%20api%3C/a%3E,%20%3Ca%20href=%22http%253a/www.juniper.net/us/en/products-services/sdn/northstar-network-controller/%22%20target=%22_blank%22%3Ejuniper%20northstar%3C/a%3E,%20html/css/js,%20%3Ca%20href=%22https%253a/www.sqlite.org/%22%20target=%22_blank%22%3Esqlite%3C/a%3E,%20%3Ca%20href=%22http%253a/c3js.org/%22%20target=%22_blank%22%3Ec3.js%3C/a%3E,%20%3Ca%20href=%22https%253a/developers.google.com/maps/%22%20target=%22_blank%22%3Egoogle%20maps%20api%3C/a%3E,%20%3Ca%20href=%22https%253a/ace.c9.io/%22%20target=%22_blank%22%3Eace.js%3C/a%3E,%20%3Ca%20href=%22http%253a/getbootstrap.com/%22%20target=%22_blank%22%3Ebootstrap%3C/a%3E/2016/02/01/Penn&-45Defined-Networks-&-45-Juniper&-45Comcast-SDN-Throwdown/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/%3Ca%20href=%22http%253a/flask.pocoo.org/%22%20target=%22_blank%22%3Eflask%3C/a%3E,%20%3Ca%20href=%22https%253a/facebook.github.io/react/%22%20target=%22_blank%22%3Ereact%3C/a%3E,%20python,%20%3Ca%20href=%22http%253a/www.restapitutorial.com/%22%20target=%22_blank%22%3Erest%20api%3C/a%3E,%20%3Ca%20href=%22http%253a/www.juniper.net/us/en/products-services/sdn/northstar-network-controller/%22%20target=%22_blank%22%3Ejuniper%20northstar%3C/a%3E,%20html/css/js,%20%3Ca%20href=%22https%253a/www.sqlite.org/%22%20target=%22_blank%22%3Esqlite%3C/a%3E,%20%3Ca%20href=%22http%253a/c3js.org/%22%20target=%22_blank%22%3Ec3.js%3C/a%3E,%20%3Ca%20href=%22https%253a/developers.google.com/maps/%22%20target=%22_blank%22%3Egoogle%20maps%20api%3C/a%3E,%20%3Ca%20href=%22https%253a/ace.c9.io/%22%20target=%22_blank%22%3Eace.js%3C/a%3E,%20%3Ca%20href=%22http%253a/getbootstrap.com/%22%20target=%22_blank%22%3Ebootstrap%3C/a%3E/2016/02/01/Penn&-45Defined-Networks-&-45-Juniper&-45Comcast-SDN-Throwdown/</guid>
+        
+        
+        <category>&lt;a href=&quot;http%3A//flask.pocoo.org/&quot; target=&quot;_blank&quot;&gt;Flask&lt;/a&gt;, &lt;a href=&quot;https%3A//facebook.github.io/react/&quot; target=&quot;_blank&quot;&gt;React&lt;/a&gt;, Python, &lt;a href=&quot;http%3A//www.restapitutorial.com/&quot; target=&quot;_blank&quot;&gt;Rest API&lt;/a&gt;, &lt;a href=&quot;http%3A//www.juniper.net/us/en/products-services/sdn/northstar-network-controller/&quot; target=&quot;_blank&quot;&gt;Juniper NorthStar&lt;/a&gt;, HTML/CSS/JS, &lt;a href=&quot;https%3A//www.sqlite.org/&quot; target=&quot;_blank&quot;&gt;SQLite&lt;/a&gt;, &lt;a href=&quot;http%3A//c3js.org/&quot; target=&quot;_blank&quot;&gt;C3.js&lt;/a&gt;, &lt;a href=&quot;https%3A//developers.google.com/maps/&quot; target=&quot;_blank&quot;&gt;Google Maps API&lt;/a&gt;, &lt;a href=&quot;https%3A//ace.c9.io/&quot; target=&quot;_blank&quot;&gt;Ace.js&lt;/a&gt;, &lt;a href=&quot;http%3A//getbootstrap.com/&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;</category>
+        
+      </item>
+    
+      <item>
+        <title>Calmly &amp;#45 Pennapps xiii hackathon</title>
+        <description>&lt;p&gt;&lt;em&gt;App for managing stress and anxiety in social situations&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Built an app that allows users to view their real-time and historical heart rate detected by the Android wear’s sensor in the background, and get notification when they are under stress (heart rate exceeds the pre-calibrated excited heart rate).&lt;/li&gt;&lt;li&gt;Managed communication between phone and smart watch.&lt;/li&gt;&lt;li&gt;Integrated &lt;a href=&quot;https%3A//www.parse.com/&quot; target=&quot;_blank&quot;&gt;Parse&lt;/a&gt; database to authenticate user and store data.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/java,%20android%20sdk%20(phone%20&%20wear),%20%3Ca%20href=%22https%253a/www.parse.com/%22%20target=%22_blank%22%3Eparse%3C/a%3E/2016/01/01/Calmly-&-45-PennApps-XIII-Hackathon/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/java,%20android%20sdk%20(phone%20&%20wear),%20%3Ca%20href=%22https%253a/www.parse.com/%22%20target=%22_blank%22%3Eparse%3C/a%3E/2016/01/01/Calmly-&-45-PennApps-XIII-Hackathon/</guid>
+        
+        
+        <category>Java, Android SDK (Phone &amp; Wear), &lt;a href=&quot;https%3A//www.parse.com/&quot; target=&quot;_blank&quot;&gt;Parse&lt;/a&gt;</category>
+        
+      </item>
+    
+      <item>
+        <title>Movie Fans Social Network</title>
+        <description>&lt;p&gt;&lt;em&gt;Movie-themed SNS based on TMDB data&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Developed a web app where users can mark/rate/review movies, like movie stars/directors, follow each other, and share activities.&lt;/li&gt;&lt;li&gt;Integrated &lt;a href=&quot;https%3A//developers.facebook.com/&quot; target=&quot;_blank&quot;&gt;Facebook API&lt;/a&gt; to allow logins with both emails and Facebook. Fuzzy search of website contents. Customized recommendations.&lt;/li&gt;&lt;li&gt;Built with &lt;a href=&quot;https%3A//nodejs.org/en/&quot; target=&quot;_blank&quot;&gt;Node.js&lt;/a&gt; framework. Integrated with &lt;a href=&quot;https%3A//www.mysql.com/&quot; target=&quot;_blank&quot;&gt;MySQL&lt;/a&gt; and &lt;a href=&quot;https%3A//www.mongodb.org/&quot; target=&quot;_blank&quot;&gt;MongoDB&lt;/a&gt; at the backend and &lt;a href=&quot;http%3A//getbootstrap.com/&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt; at the frontend.&lt;/li&gt;&lt;li&gt;Deployed on cloud services (&lt;a href=&quot;https%3A//aws.amazon.com/rds/&quot; target=&quot;_blank&quot;&gt;AWS RDS&lt;/a&gt; + &lt;a href=&quot;https%3A//aws.amazon.com/ec2/&quot; target=&quot;_blank&quot;&gt;AWS EC2&lt;/a&gt; + &lt;a href=&quot;https%3A//mongolab.com/&quot; target=&quot;_blank&quot;&gt;MongoLab&lt;/a&gt;).&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Wed, 02 Dec 2015 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/%3Ca%20href=%22https%253a/nodejs.org/en/%22%20target=%22_blank%22%3Enode.js%3C/a%3E,%20%3Ca%20href=%22https%253a/developers.facebook.com/%22%20target=%22_blank%22%3Efacebook%20api%3C/a%3E,%20%3Ca%20href=%22https%253a/www.mysql.com/%22%20target=%22_blank%22%3Emysql%3C/a%3E,%20%3Ca%20href=%22https%253a/www.mongodb.org/%22%20target=%22_blank%22%3Emongodb%3C/a%3E,%20java,%20html/css/js,%20%3Ca%20href=%22http%253a/getbootstrap.com/%22%20target=%22_blank%22%3Ebootstrap%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/rds/%22%20target=%22_blank%22%3Eaws%20rds%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/ec2/%22%20target=%22_blank%22%3Eaws%20ec2%3C/a%3E,%20%3Ca%20href=%22https%253a/mongolab.com/%22%20target=%22_blank%22%3Emongolab%3C/a%3E/2015/12/02/Movie-Fans-Social-Network/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/%3Ca%20href=%22https%253a/nodejs.org/en/%22%20target=%22_blank%22%3Enode.js%3C/a%3E,%20%3Ca%20href=%22https%253a/developers.facebook.com/%22%20target=%22_blank%22%3Efacebook%20api%3C/a%3E,%20%3Ca%20href=%22https%253a/www.mysql.com/%22%20target=%22_blank%22%3Emysql%3C/a%3E,%20%3Ca%20href=%22https%253a/www.mongodb.org/%22%20target=%22_blank%22%3Emongodb%3C/a%3E,%20java,%20html/css/js,%20%3Ca%20href=%22http%253a/getbootstrap.com/%22%20target=%22_blank%22%3Ebootstrap%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/rds/%22%20target=%22_blank%22%3Eaws%20rds%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/ec2/%22%20target=%22_blank%22%3Eaws%20ec2%3C/a%3E,%20%3Ca%20href=%22https%253a/mongolab.com/%22%20target=%22_blank%22%3Emongolab%3C/a%3E/2015/12/02/Movie-Fans-Social-Network/</guid>
+        
+        
+        <category>&lt;a href=&quot;https%3A//nodejs.org/en/&quot; target=&quot;_blank&quot;&gt;Node.js&lt;/a&gt;, &lt;a href=&quot;https%3A//developers.facebook.com/&quot; target=&quot;_blank&quot;&gt;Facebook API&lt;/a&gt;, &lt;a href=&quot;https%3A//www.mysql.com/&quot; target=&quot;_blank&quot;&gt;MySQL&lt;/a&gt;, &lt;a href=&quot;https%3A//www.mongodb.org/&quot; target=&quot;_blank&quot;&gt;MongoDB&lt;/a&gt;, Java, HTML/CSS/JS, &lt;a href=&quot;http%3A//getbootstrap.com/&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;, &lt;a href=&quot;https%3A//aws.amazon.com/rds/&quot; target=&quot;_blank&quot;&gt;AWS RDS&lt;/a&gt;, &lt;a href=&quot;https%3A//aws.amazon.com/ec2/&quot; target=&quot;_blank&quot;&gt;AWS EC2&lt;/a&gt;, &lt;a href=&quot;https%3A//mongolab.com/&quot; target=&quot;_blank&quot;&gt;MongoLab&lt;/a&gt;</category>
+        
+      </item>
+    
+      <item>
+        <title>Funds With Friends App</title>
+        <description>&lt;p&gt;&lt;em&gt;Group-friendly Mobile Payment App&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Built an app that allows users to  add/delete/edit friend groups, and pay/charge group members.&lt;/li&gt;&lt;li&gt;Integrated with &lt;a href=&quot;https%3A//developer.venmo.com/&quot; target=&quot;_blank&quot;&gt;Venmo API&lt;/a&gt; to import friends and process payments.&lt;/li&gt;&lt;li&gt;Used &lt;a href=&quot;https%3A//www.mysql.com/&quot; target=&quot;_blank&quot;&gt;MySQL&lt;/a&gt; and &lt;a href=&quot;https%3A//nodejs.org/en/&quot; target=&quot;_blank&quot;&gt;Node.js&lt;/a&gt; as backend for storing and synchronizing data (deployed on &lt;a href=&quot;https%3A//aws.amazon.com/rds/&quot; target=&quot;_blank&quot;&gt;AWS RDS&lt;/a&gt; and &lt;a href=&quot;https%3A//aws.amazon.com/ec2/&quot; target=&quot;_blank&quot;&gt;AWS EC2&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Worked with project manager to build user stories, detect code smells, refactor code, fix bugs, and implement new features.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/java,%20android%20sdk,%20%3Ca%20href=%22https%253a/developer.venmo.com/%22%20target=%22_blank%22%3Evenmo%20api%3C/a%3E,%20%3Ca%20href=%22https%253a/www.mysql.com/%22%20target=%22_blank%22%3Emysql%3C/a%3E,%20%3Ca%20href=%22https%253a/nodejs.org/en/%22%20target=%22_blank%22%3Enode.js%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/ec2/%22%20target=%22_blank%22%3Eaws%20ec2%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/rds/%22%20target=%22_blank%22%3Eaws%20rds%3C/a%3E/2015/12/01/Funds-with-Friends-App/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/java,%20android%20sdk,%20%3Ca%20href=%22https%253a/developer.venmo.com/%22%20target=%22_blank%22%3Evenmo%20api%3C/a%3E,%20%3Ca%20href=%22https%253a/www.mysql.com/%22%20target=%22_blank%22%3Emysql%3C/a%3E,%20%3Ca%20href=%22https%253a/nodejs.org/en/%22%20target=%22_blank%22%3Enode.js%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/ec2/%22%20target=%22_blank%22%3Eaws%20ec2%3C/a%3E,%20%3Ca%20href=%22https%253a/aws.amazon.com/rds/%22%20target=%22_blank%22%3Eaws%20rds%3C/a%3E/2015/12/01/Funds-with-Friends-App/</guid>
+        
+        
+        <category>Java, Android SDK, &lt;a href=&quot;https%3A//developer.venmo.com/&quot; target=&quot;_blank&quot;&gt;Venmo API&lt;/a&gt;, &lt;a href=&quot;https%3A//www.mysql.com/&quot; target=&quot;_blank&quot;&gt;MySQL&lt;/a&gt;, &lt;a href=&quot;https%3A//nodejs.org/en/&quot; target=&quot;_blank&quot;&gt;Node.js&lt;/a&gt;, &lt;a href=&quot;https%3A//aws.amazon.com/ec2/&quot; target=&quot;_blank&quot;&gt;AWS EC2&lt;/a&gt;, &lt;a href=&quot;https%3A//aws.amazon.com/rds/&quot; target=&quot;_blank&quot;&gt;AWS RDS&lt;/a&gt;</category>
+        
+      </item>
+    
+      <item>
+        <title>Instanote &amp;#45 Pennapps xii hackathon</title>
+        <description>&lt;p&gt;&lt;em&gt;Mobile Notetaking App based on OCR&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Developed an app that allows users to take notes without typing. Swipe-selected text in images will be transformed into a plaintext note.&lt;/li&gt;&lt;li&gt;Implemented five activities enabling users to sort, add, edit, favorite, delete, and share notes. Integrated with Google maps to associate locations with notes.&lt;/li&gt;&lt;li&gt;Applied and customized &lt;a href=&quot;http%3A//gaut.am/making-an-ocr-android-app-using-tesseract/&quot; target=&quot;_blank&quot;&gt;Tess-Two&lt;/a&gt; open source OCR library. Integrated &lt;a href=&quot;https%3A//www.sqlite.org/&quot; target=&quot;_blank&quot;&gt;SQLite&lt;/a&gt; database to store notes and other metadata.&lt;/li&gt;&lt;li&gt;Applied Android &lt;a href=&quot;https%3A//www.google.com/design/spec/material-design/introduction.html#&quot; target=&quot;_blank&quot;&gt;material design&lt;/a&gt; at the frontend. Implemented UI elements such as floating action buttons, data/time picker, and swipe-to-delete.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://lisalisadong.github.io/java,%20android%20sdk,%20%3Ca%20href=%22http%253a/gaut.am/making-an-ocr-android-app-using-tesseract/%22%20target=%22_blank%22%3Etess-two%3C/a%3E,%20%3Ca%20href=%22https%253a/www.sqlite.org/%22%20target=%22_blank%22%3Esqlite%3C/a%3E/2015/09/01/InstaNote-&-45-PennApps-XII-Hackathon/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/java,%20android%20sdk,%20%3Ca%20href=%22http%253a/gaut.am/making-an-ocr-android-app-using-tesseract/%22%20target=%22_blank%22%3Etess-two%3C/a%3E,%20%3Ca%20href=%22https%253a/www.sqlite.org/%22%20target=%22_blank%22%3Esqlite%3C/a%3E/2015/09/01/InstaNote-&-45-PennApps-XII-Hackathon/</guid>
+        
+        
+        <category>Java, Android SDK, &lt;a href=&quot;http%3A//gaut.am/making-an-ocr-android-app-using-tesseract/&quot; target=&quot;_blank&quot;&gt;Tess-Two&lt;/a&gt;, &lt;a href=&quot;https%3A//www.sqlite.org/&quot; target=&quot;_blank&quot;&gt;SQLite&lt;/a&gt;</category>
+        
+      </item>
+    
+      <item>
+        <title>Connect Four Ai Agent</title>
+        <description>&lt;ul&gt;&lt;li&gt;Developed heuristics for winning “Connect Four” game.&lt;/li&gt;&lt;li&gt;Victory rate is 94.4% ~ 100% in 4000 games against multiple agents.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Sat, 05 Jan 2013 00:00:00 -0500</pubDate>
+        <link>https://lisalisadong.github.io/java/2013/01/05/connect-four-ai-agent/</link>
+        <guid isPermaLink="true">https://lisalisadong.github.io/java/2013/01/05/connect-four-ai-agent/</guid>
+        
+        
+        <category>Java</category>
+        
+      </item>
+    
+  </channel>
+</rss>
