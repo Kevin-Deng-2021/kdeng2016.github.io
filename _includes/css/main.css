@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: rgb(4, 53, 94);
 }
 
 h1,
@@ -81,8 +81,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: rgb(11, 80, 136);
-    background: #85C1E9 ;
+    color: rgb(4, 53, 94);
+    background: #c5edf7 ;
 }
 
 header .container {
@@ -319,7 +319,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: rgb(2, 22, 112);
 }
 
 form .row:first-child .floating-label-form-group {
