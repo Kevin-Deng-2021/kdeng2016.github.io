@@ -446,7 +446,8 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #7d1f02 !important;
+    color : #052e6c;
+    background-color: #1f6fe7 !important;
 }
 
 /* Fix modal mouse wheel issues */
