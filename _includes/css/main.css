@@ -466,6 +466,13 @@ footer .footer-below {
     The code was taken from https://www.w3schools.com/howto/howto_css_timeline.asp */
 
 /* The actual timeline (the vertical ruler) */
+
+
+.home-content
+{
+    margin: 40px 0 70px 0;
+}
+
 .timeline {
     position: relative;
     max-width: 1000px;
